@@ -11,5 +11,5 @@ The cheatsheets are divided into the following categories:
    2. ML
    3. Visualization
 3. SQL
-   1. Datacamp-Joining_data_in_SQL
-4. Miscellaneous
+4. Statistics
+5. Miscellaneous
